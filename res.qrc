@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icons/not_solved.svg</file>
+    <file>icons/solved.svg</file>
+    <file>icons/computer.svg</file>
+    <file>icons/labtop.svg</file>
+    <file>icons/other.svg</file>
+    <file>icons/tablet.svg</file>
+    <file>icons/phone.svg</file>
+  </qresource>
+</RCC>
